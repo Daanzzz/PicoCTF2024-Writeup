@@ -32,7 +32,7 @@ Just like the previous challenge, the debugger was detected. <br>
 While looking around at the disassembly, I've noticed some interesting parts in the code:<br>
 ![image](https://github.com/Daanzzz/PicoCTF2024-Writeup/assets/114262330/af9d2640-fa59-4b53-ab37-91d2562856bb)<br>
 
-I'm gonna focus on `loc_FC1807`:
+I will focus on `loc_FC1807`:
 <br>
 ```asm
 loc_FC1807:
