@@ -48,7 +48,7 @@ Looks like the hint that was promised was given, and now I know that the way to 
 After taking a quick look at the disassembly of the `main` function, I've found the code that's checking if a debugger is active:<br>
 ![image](https://github.com/Daanzzz/PicoCTF2024-Writeup/assets/114262330/114d5374-4220-48e9-8752-4cc40fd8bd8b)
 <br><br>
-I'm gonna focus on this line:<br>
+I'll be focusing on this line:<br>
 ```asm
 jz  short loc_5A161B
 ```
