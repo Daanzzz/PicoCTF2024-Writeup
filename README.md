@@ -5,3 +5,6 @@ Throughout the write-ups, I'll include links to tools I've used and attach the c
 
 ## Relevant Links
 [PicoCTF](https://picoctf.org/) - The PicoCTF website 
+
+## Note
+This repo is still under work, more writeups will soon be added.
